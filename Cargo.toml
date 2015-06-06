@@ -1,0 +1,10 @@
+[package]
+name = "yaic"
+version = "0.1.0"
+authors = ["Israël Hallé <isra017@gmail.com>"]
+
+[dependencies]
+ncurses = "5.73.0"
+
+[dependencies.poll]
+git = "https://github.com/isra17/rust-poll.git"

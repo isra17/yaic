@@ -5,6 +5,11 @@ authors = ["Israël Hallé <isra017@gmail.com>"]
 
 [dependencies]
 ncurses = "5.73.0"
+lazy_static = "0.1.11"
 
 [dependencies.poll]
 git = "https://github.com/isra17/rust-poll.git"
+
+[dependencies.readline]
+git = "https://github.com/isra17/rust-readline.git"
+
